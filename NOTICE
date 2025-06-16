@@ -1,0 +1,8 @@
+The MetaX-MACA/eigen project is modified from eigen (https://gitlab.com/libeigen/eigen). Modification copyright © 2025 MetaX Integrated Circuits (Shanghai) Co., Ltd. All rights reserved. 
+
+The MetaX-MACA/eigen is also licensed under Mozilla Public License 2.0. 
+
+Please see the LICENSE file for the license of this project and other COPYING.* files for third-party code.
+
+Some files contain third-party code under BSD or other MPL2-compatible licenses,
+whence the other COPYING.* files here.
